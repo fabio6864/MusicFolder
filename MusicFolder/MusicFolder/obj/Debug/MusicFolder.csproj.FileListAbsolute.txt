@@ -1,0 +1,10 @@
+C:\Users\Fabio\source\repos\MusicFolder\MusicFolder\bin\Debug\MusicFolder.exe.config
+C:\Users\Fabio\source\repos\MusicFolder\MusicFolder\bin\Debug\MusicFolder.exe
+C:\Users\Fabio\source\repos\MusicFolder\MusicFolder\bin\Debug\MusicFolder.pdb
+C:\Users\Fabio\source\repos\MusicFolder\MusicFolder\obj\Debug\MusicFolder.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\MusicFolder\MusicFolder\obj\Debug\MusicFolder.Form1.resources
+C:\Users\Fabio\source\repos\MusicFolder\MusicFolder\obj\Debug\MusicFolder.Properties.Resources.resources
+C:\Users\Fabio\source\repos\MusicFolder\MusicFolder\obj\Debug\MusicFolder.csproj.GenerateResource.cache
+C:\Users\Fabio\source\repos\MusicFolder\MusicFolder\obj\Debug\MusicFolder.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\MusicFolder\MusicFolder\obj\Debug\MusicFolder.exe
+C:\Users\Fabio\source\repos\MusicFolder\MusicFolder\obj\Debug\MusicFolder.pdb
